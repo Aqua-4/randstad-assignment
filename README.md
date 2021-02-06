@@ -6,3 +6,5 @@
 * Create a computed column, "Recovered_Percent" that lists the patients recovered from confirmed cases. 
 * Additionally, please create another computed column of your choice.
 * When you respond to the project please let us know what additional column you have created.
+
+* Mark the python code with standard coding techniques and practises for documentation purposes. Also, use OOPS concepts using function/method/classes
